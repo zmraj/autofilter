@@ -1,0 +1,10 @@
+pyrogram
+TgCrypto
+
+Dnspython
+Pymongo
+umongo
+heroku3
+Motor
+
+Requests 
